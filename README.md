@@ -1,11 +1,19 @@
-# Salut, moi c’est vidgame 👋
+# Hey, I'm vidgame 👋
 
-Je développe des applications pour Windows et Android. Voici deux de mes projets à découvrir.
+I develop applications for Windows and Android. Here are two of my projects worth checking out.
 
 ### 🗂️ Octet
 
-Qu’est-ce qui prend autant de place sur mon disque ? Octet répond à cette question avec une carte interactive des fichiers et dossiers. L’analyse se fait directement sur le PC. L’application est développée en **C# avec .NET et WPF**. [Découvrir Octet](https://github.com/vidgame/octet)
+Ever wondered what's taking up so much space on your drive? Octet helps you find out with an interactive map of your files and folders. All analysis is performed locally on your PC.
+
+Built with **C#, .NET, and WPF**.
+
+[Check out Octet](https://github.com/vidgame/octet)
 
 ### 📱 Tracks
 
-Une application Android de suivi de performance sportive dont je publie les nouvelles versions sur GitHub. (Le code source est actuellement en privé) [Voir les versions de Tracks](https://github.com/vidgame/Tracks/releases)
+An Android app designed to track fitness performance and progress. I regularly publish new releases on GitHub.
+
+*(The source code is currently private.)*
+
+[View Tracks releases](https://github.com/vidgame/Tracks/releases)
