@@ -8,4 +8,4 @@ Qu’est-ce qui prend autant de place sur mon disque ? Octet répond à cette qu
 
 ### 📱 Tracks
 
-Une application Android dont je publie les nouvelles versions sur GitHub. [Voir les versions de Tracks](https://github.com/vidgame/Tracks/releases)
+Une application Android de suivi de performance sportive dont je publie les nouvelles versions sur GitHub. (Le code source est actuellement en privé) [Voir les versions de Tracks](https://github.com/vidgame/Tracks/releases)
